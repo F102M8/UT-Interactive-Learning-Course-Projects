@@ -1,4 +1,4 @@
-# If project was not working, try this environment yaml on conda, or contact me (f102m.8@gmail.com)
+# If project doesn't work, you can try this environment yaml on conda, or contact me (f102m.8@gmail.com)
 
 name: university_env
 channels:
